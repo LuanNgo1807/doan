@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 8499047c8919b7648bf1a2c1abd2509a
+timeCreated: 1667217162
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ty_dianji
+  - first:
+      213: 21300002
+    second: ty_shou
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ty_dianji
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 228
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -114}
+        - {x: -114, y: -71}
+        - {x: -114, y: 37}
+        - {x: -95, y: 76}
+        - {x: -67, y: 112}
+        - {x: -58.999996, y: 114}
+        - {x: 65, y: 114}
+        - {x: 114, y: 65}
+        - {x: 114, y: -50}
+        - {x: 72, y: -114}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0311544df247d08d32f05edbdd571a
+      internalID: 21300000
+      vertices:
+      - {x: 228, y: 179}
+      - {x: 186, y: 109}
+      - {x: 228, y: 64}
+      - {x: 179, y: 228}
+      - {x: 133, y: 182}
+      - {x: 107, y: 186}
+      - {x: 64, y: 162}
+      - {x: 55.000004, y: 228}
+      - {x: 47, y: 226}
+      - {x: 45, y: 96}
+      - {x: 19, y: 190}
+      - {x: 186, y: 0}
+      - {x: 109, y: 42}
+      - {x: 66, y: 64}
+      - {x: 50, y: 0}
+      - {x: 0, y: 151}
+      - {x: 0, y: 43}
+      indices: 100000000f0000000e0000000a0000000e0000000f000000090000000e0000000a0000000d0000000e000000090000000b0000000e0000000d0000000c0000000b0000000d000000010000000b0000000c000000020000000b000000010000000a0000000800000009000000060000000900000008000000070000000600000008000000030000000600000007000000050000000600000003000000040000000500000003000000010000000400000003000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ty_shou
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 73
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -67.5}
+        - {x: -36.5, y: -67.5}
+        - {x: -36.5, y: 46.5}
+        - {x: -31.5, y: 66.5}
+        - {x: -29.499998, y: 67.5}
+        - {x: 1.5, y: 67.5}
+        - {x: 36.5, y: 39.5}
+      physicsShape:
+      - - {x: 1.5, y: 38.5}
+        - {x: -4.5, y: 61.5}
+        - {x: -10.5, y: 67.5}
+        - {x: -24.499998, y: 67.5}
+        - {x: -28.5, y: 60.499996}
+        - {x: -36.499996, y: 20.5}
+        - {x: -36.499996, y: -30.5}
+        - {x: -27.5, y: -67.5}
+        - {x: 36.499996, y: -67.5}
+        - {x: 36.499996, y: 27.5}
+        - {x: 30.5, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff86fcb190b42d39a8230d33baa6b9a
+      internalID: 21300002
+      vertices:
+      - {x: 38, y: 135}
+      - {x: 73, y: 0}
+      - {x: 73, y: 107}
+      - {x: 7.000002, y: 135}
+      - {x: 5, y: 134}
+      - {x: 0, y: 114}
+      - {x: 0, y: 0}
+      indices: 060000000500000001000000040000000100000005000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41bb223258c72294fa3e02ab08416a1a, type: 3}
+  m_Name: M4A1
+  m_EditorClassIdentifier: 
+  id: 3
+  nameGun: M4A1
+  priceForCoint: 300
+  priceForDiamond: 250
+  listDamage:
+  - 0.2
+  - 0.4
+  - 0.6
+  - 0.8
+  - 1
+  listRateOfFire:
+  - 0.2
+  - 0.3
+  - 0.5
+  - 0.7
+  - 1
+  listAccuracy:
+  - 0.2
+  - 0.4
+  - 0.6
+  - 0.8
+  - 1
+  priceUpGrapde: 7d000000f50000005e010000a9010000f4010000
+  timeCharge:
+  - 2
+  - 1
+  - 0.5
+  - 0.3
+  - 0.2
+  numberBullets: 40
+  isStart: 0

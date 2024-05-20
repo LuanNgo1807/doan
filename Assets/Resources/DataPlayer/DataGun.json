@@ -1,0 +1,13 @@
+{   
+    "ListDataGun": [
+             {"idType": 1,"idWeapon":1,"name":"AK47","damage":0.7,"rateOfFire":0.3,"accuracy":0.6,"priceForCoin":200,"priceForDiamond":100},
+             {"idType": 1,"idWeapon":2,"name":"AWP","damage":0.5,"rateOfFire":1,"accuracy":0.8,"priceForCoin":230,"priceForDiamond":200},
+             {"idType": 1,"idWeapon":3,"name":"M4A1","damage":0.5,"rateOfFire":1,"accuracy":0.8,"priceForCoin":300,"priceForDiamond":350},
+			{"idType": 1,"idWeapon":4,"name":"MP5","damage":0.5,"rateOfFire":1,"accuracy":0.8,"priceForCoin":330,"priceForDiamond":360},
+			 {"idType": 1,"idWeapon":5,"name":"SCAR20","damage":0.7,"rateOfFire":0.3,"accuracy":0.6,"priceForCoin":400,"priceForDiamond":420},
+             {"idType": 1,"idWeapon":6,"name":"AUG","damage":0.5,"rateOfFire":1,"accuracy":0.8,"priceForCoin":500,"priceForDiamond":540},
+             {"idType": 1,"idWeapon":7,"name":"M79","damage":0.5,"rateOfFire":1,"accuracy":0.8,"priceForCoin":600,"priceForDiamond":620},
+			{"idType": 1,"idWeapon":8,"name":"MP7","damage":0.5,"rateOfFire":1,"accuracy":0.8,"priceForCoin":700,"priceForDiamond":750},
+		   {"idType": 1,"idWeapon":9,"name":"USP","damage":0.5,"rateOfFire":1,"accuracy":0.8,"priceForCoin":800,"priceForDiamond":800}
+        ]
+}
